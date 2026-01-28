@@ -4,7 +4,7 @@ Please read the full description of the assignment on Canvas or in the `Assignme
 After reading the instructions, update the information below as directed.
 
 
-Name:
+Name: Kazi Nafee
 Course: INFOTC 4405 / CMP_SC 4405
-Section:
-Semester:
+Section: Test_1
+Semester: Spring 2026
